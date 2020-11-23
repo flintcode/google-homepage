@@ -10,3 +10,4 @@ What was learnt
 5. Color manipulation through RGB properties.
 6. Animation through keyframes and opacity levels
 7. pseudoclasses to create aesthetic effects in specific states like hover
+8. creating external and importing external CSS to make code more readable/clean and for easier organzation
