@@ -11,4 +11,4 @@ What was learnt
 6. Animation through keyframes with adjustment on opacity, color, and box/text shadow 
 7. pseudoclasses to create aesthetic effects in specific states like hover
 8. creating external and importing external CSS to make code more readable/clean and for easier organzation
-9. Utilizing command line to push commits onto github repo and creating live server for public viewing via github.
+9. Utilizing command line to push commits with from git clone onto github repo and creating live server for public viewing via github.
