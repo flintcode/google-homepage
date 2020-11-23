@@ -8,3 +8,5 @@ What was learnt
 3. placing images in elements to create icons (i.e. search input field)
 4. creating navigation and footer bars through positon properties: fixed, absolute, relative and their directional reference properties
 5. Color manipulation through RGB properties.
+6. Animation through keyframes and opacity levels
+7. pseudoclasses to create aesthetic effects in specific states like hover
